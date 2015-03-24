@@ -1,0 +1,59 @@
+body {
+	padding: 20px 10px;
+	font-family: Calibri;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	margin: 10px 0;
+}
+
+.part {
+	background-color: #0574ac;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-color: #ef6f00;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: black;
+}
+
+.concept-description {
+	font-weight: lighter;
+	text-align: left;
+	margin: 6px;
+}
+
+.code {
+	font-family: Courier;
+	color : black;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+}
+
